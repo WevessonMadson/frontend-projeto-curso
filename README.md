@@ -1,12 +1,37 @@
-# React + Vite
+# Front Projeto Desafio do curso de Técnico em DS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Curso de Desenvolvimento de sistemas, [🔗ETE GINASIO PERNAMBUCANO](https://www.instagram.com/eremgp/)
 
-Currently, two official plugins are available:
+FRONT-END EM REACT PARA INTERAGIR COM BACK-END PARA CADASTRO DE PESSOAS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  > Repositório do BackEnd, [🔗BACKEND PARA ESTE PROJETO](https://github.com/WevessonMadson/backend-projeto-curso)
 
-## Expanding the ESLint configuration
+## Como usar:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Ter o NodeJs e o npm instalado na máquina;
+- Baixar ou clonar os arquivos do repositório;
+- Instalar as dependências: <strong>npm install</strong>;
+- Colocar o projeto para rodar: <strong>npm run dev</strong> ou <strong>npm start</strong>
+
+## 🛠 Tecnologias
+
+### Linguagem
+
+- JAVASCRIPT
+
+### Frameworks
+
+- REACT
+
+### Bibliotecas
+
+- REACT DOM
+
+### Controle de versionamento
+
+- Git e Github
+
+## 💛 Contato
+
+<a href="https://www.linkedin.com/in/wevesson-madson-9a5a4615a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+<a href="https://t.me/WevessonMadson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
